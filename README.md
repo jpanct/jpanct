@@ -2,7 +2,7 @@
 
 👩🏻‍💻 My name is Jamie and I am a fourth year at Northeastern University, studying computer science and economics! I am interested in product management and startups. 
 
-🌱 Previously, I worked as a SOC Analyst Intern at Check Point Software Technologies and as a Product Manager Intern at Microsoft Gaming (Xbox)! I am currently a Product Manager Intern @ Tesla.
+🌱 Previously, I worked as a Product Manager Intern at Microsoft Gaming (Xbox) and Tesla!
 
 ✉️ I am always looking for opportunities to learn, grow, and build something impactful. Feel free to connect with me on LinkedIn or reach out through email: pan.jam@northeastern.edu
 
