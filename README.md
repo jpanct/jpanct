@@ -4,7 +4,7 @@
 
 🌱 Previously, I worked as a Product Manager Intern at Microsoft Gaming (Xbox) and Tesla!
 
-✉️ I am always looking for opportunities to learn, grow, and build something impactful. Feel free to connect with me on LinkedIn or reach out through email: pan.jam1ee@gmail.com
+✉️ I am always looking for opportunities to learn, grow, and build something impactful. Feel free to connect with me on LinkedIn or reach out through email: panjam1ee@gmail.com
 
 <!--
 **jpanct/jpanct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
