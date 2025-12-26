@@ -6,6 +6,8 @@
 
 ✉️ I am always looking for opportunities to learn, grow, and build something impactful. Feel free to connect with me on LinkedIn or reach out through email: panjam1ee@gmail.com
 
+https://jam1e.tech
+https://jam1eworld.vercel.app
 <!--
 **jpanct/jpanct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
